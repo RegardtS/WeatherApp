@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="feels_like_param_C">Feels like %1$s°C</string>
+    <string name="param_C">%1$s°C</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="location_permission_needed">Location permission needed</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="something_went_very_wrong">Something went very wrong</string>
+
+
+</resources>
